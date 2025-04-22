@@ -35,7 +35,3 @@ Each folder will correspond to a challenge I attempted. It will include:
 - Explorations of relevant cryptographic concepts
 - Notes about what I learned along the way
 
-git commit -m "first commit"
-git branch -M dev
-git remote add origin https://github.com/BohBOhTN/CryptoHackChallanges.git
-git push -u origin dev
