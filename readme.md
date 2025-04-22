@@ -11,8 +11,9 @@ As part of the coursework for the subject:
 > **Éthique, droit informatique et protection des données**  
 > *(Ethics, Computer Law, and Data Protection)*
 
-I decided to explore cryptographic challenges as a way to improve my skills in security, math, and programming, and to document this learning process in a structured and reproducible way.
 
+I decided to explore cryptographic challenges as a way to improve my skills in security, math, and programming, and to document this learning process in a structured and reproducible way.
+![Project Context Screenshot](/Screenshots/proof.png) 
 ---
 
 ## 🛑 Important Notice
