@@ -44,4 +44,5 @@ Each folder will correspond to a challenge I attempted. It will include:
 - [XOR Properties](./Introduction%20to%20CryptoHack/XOR%20Properties/)
 - [XOR Starter](./Introduction%20to%20CryptoHack/XOR%20Starter/)
 - [You either know, XOR you don't](./Introduction%20to%20CryptoHack/You%20either%20know,%20XOR%20you%20don't/)
+- [Network Attacks](./Introduction%20to%20CryptoHack/Network%20Attacks/)
 
