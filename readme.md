@@ -49,5 +49,13 @@ Each folder will correspond to a challenge I attempted. It will include:
 - [Network Attacks](./Introduction%20to%20CryptoHack/Network%20Attacks/)
 
 #### Modular Arithmetic
+- [Chinese Remainder Theorem](./Modular%20Arithmetic/Chinese%20Remainder%20Theorem/)
+- [Extended GCD](./Modular%20Arithmetic/Extended%20GCD/)
 - [Greatest Common Divisor](./Modular%20Arithmetic/Greatest%20Common%20Divisor/)
+- [Legendre Symbol](./Modular%20Arithmetic/Legendre%20Symbol/)
+- [Modular Arithmetic 1](./Modular%20Arithmetic/Modular%20Arithmetic%201/)
+- [Modular Arithmetic 2](./Modular%20Arithmetic/Modular%20Arithmetic%202/)
+- [Modular Inverting](./Modular%20Arithmetic/Modular%20Inverting/)
+- [Modular Square Root](./Modular%20Arithmetic/Modular%20Square%20Root/)
+- [Quadratic Residues](./Modular%20Arithmetic/Quadratic%20Residues/)
 
