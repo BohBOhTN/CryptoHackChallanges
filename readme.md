@@ -62,3 +62,10 @@ Each folder will correspond to a challenge I attempted. It will include:
 - [Modular Square Root](./Modular%20Arithmetic/Modular%20Square%20Root/)
 - [Quadratic Residues](./Modular%20Arithmetic/Quadratic%20Residues/)
 
+#### Symmetric Ciphers
+- [Bringing It All Together](./Symmetric%20Ciphers/Bringing%20It%20All%20Together/)
+- [Confusion through Substitution](./Symmetric%20Ciphers/Confusion%20through%20Substitution/)
+- [Diffusion through Permutation](./Symmetric%20Ciphers/Diffusion%20through%20Permutation/)
+- [Round Key](./Symmetric%20Ciphers/Round%20Key/)
+- [Structure of AES](./Symmetric%20Ciphers/Structure%20of%20AES/)
+
