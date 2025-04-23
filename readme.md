@@ -47,6 +47,9 @@ Each folder will correspond to a challenge I attempted. It will include:
 - [XOR Starter](./Introduction%20to%20CryptoHack/XOR%20Starter/)
 - [You either know, XOR you don't](./Introduction%20to%20CryptoHack/You%20either%20know,%20XOR%20you%20don't/)
 - [Network Attacks](./Introduction%20to%20CryptoHack/Network%20Attacks/)
+- [Encoding Challenge](./Introduction%20to%20CryptoHack/Encoding%20Challenge/)
+- [Lemur XOR](./Introduction%20to%20CryptoHack/Lemur%20XOR/)
+
 
 #### Modular Arithmetic
 - [Chinese Remainder Theorem](./Modular%20Arithmetic/Chinese%20Remainder%20Theorem/)
