@@ -1,0 +1,10 @@
+# Given values
+p = 857504083339712752489993810777
+q = 1029224947942998075080348647219
+e = 65537
+
+phi_N = (p - 1) * (q - 1)
+print("Euler's totient φ(N):", phi_N)
+
+d = pow(e, -1, phi_N)
+print("Private key d:", d)
