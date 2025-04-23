@@ -35,7 +35,9 @@ Each folder will correspond to a challenge I attempted. It will include:
 - Explorations of relevant cryptographic concepts
 - Notes about what I learned along the way
 
-### Challenge Folders
+### Chapters
+
+#### Introduction to CryptoHack
 - [ASCII](./Introduction%20to%20CryptoHack/ASCII/)
 - [Base64](./Introduction%20to%20CryptoHack/Base64/)
 - [Bytes and Big Integers](./Introduction%20to%20CryptoHack/Bytes%20and%20Big%20Integers/)
@@ -45,4 +47,7 @@ Each folder will correspond to a challenge I attempted. It will include:
 - [XOR Starter](./Introduction%20to%20CryptoHack/XOR%20Starter/)
 - [You either know, XOR you don't](./Introduction%20to%20CryptoHack/You%20either%20know,%20XOR%20you%20don't/)
 - [Network Attacks](./Introduction%20to%20CryptoHack/Network%20Attacks/)
+
+#### Modular Arithmetic
+- [Greatest Common Divisor](./Modular%20Arithmetic/Greatest%20Common%20Divisor/)
 
